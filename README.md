@@ -1,4 +1,4 @@
-[DOI](todo)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15240283.svg)](https://doi.org/10.5281/zenodo.15240283)
 # Learning Surrogate Equations for the Analysis of an Agent-Based Cancer Model
 
 Code artifacts for the paper "Learning Surrogate Equations for the Analysis of an Agent-Based Cancer Model" submitted to Frontiers in Applied Mathematics and Statistics. 
