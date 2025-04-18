@@ -1,0 +1,7 @@
+.venv
+*.pdf
+__pycache__
+02_data_processed/*.csv
+04_results/*
+!04_results/
+!04_results/.gitkeep
