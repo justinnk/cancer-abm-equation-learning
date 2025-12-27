@@ -118,25 +118,26 @@ The equation learning result plots and table from the paper can now be found in 
 
 ## :page_facing_up: Cite
 
-Cite the preprint:
+Cite the article:
 
 ```
-Burrage, K., Burrage, P., Kreikemeyer, J. N., Uhrmacher, A. M., & Weerasinghe, H. N.
-"Learning Surrogate Equations for the Analysis of an Agent-Based Cancer Model."
-arXiv preprint arXiv:2503.01718 (2025).
+Burrage K, Burrage PM, Kreikemeyer JN, Uhrmacher AM and Weerasinghe HN (2025)
+Learning surrogate equations for the analysis of an agent-based cancer model.
+Front. Appl. Math. Stat. 11:1578604. doi: 10.3389/fams.2025.1578604
 ```
 
 Bibtex:
 
 ```bib
-@misc{burrage2025learning,
-      title={Learning Surrogate Equations for the Analysis of an Agent-Based Cancer Model}, 
-      author={Kevin Burrage and Pamela Burrage and Justin N. Kreikemeyer and Adelinde M. Uhrmacher and Hasitha N. Weerasinghe},
-      year={2025},
-      eprint={2503.01718},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2503.01718}, 
+@article{burrage2025learning,
+  author={Burrage, Kevin  and Burrage, Pamela M.  and Kreikemeyer, Justin N.  and Uhrmacher, Adelinde M.  and Weerasinghe, Hasitha N. },
+  title={Learning surrogate equations for the analysis of an agent-based cancer model},
+  journal={Frontiers in Applied Mathematics and Statistics},
+  volume={Volume 11 - 2025},
+  year={2025},
+  url={https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2025.1578604},
+  doi={10.3389/fams.2025.1578604},
+  issn={2297-4687},
 }
 ```
 
